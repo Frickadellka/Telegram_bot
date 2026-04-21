@@ -3,3 +3,4 @@ __pycache__/
 .env
 config.py
 import.txt
+hash_passwords.py
